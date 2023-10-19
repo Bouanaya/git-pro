@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+button {
+    padding:2px 16px ;
+    background-color: chartreuse;
+    cursor: pointer;
+    border: none;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    gap: 120PX;
+}
+body{
+    height: 100vh;
+}
