@@ -13,6 +13,7 @@ div{
     align-items: center;
     height: 100%;
     gap: 120PX;
+    background-color: brown;
 }
 body{
     height: 100vh;
